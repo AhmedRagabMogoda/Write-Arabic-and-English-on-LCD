@@ -1,4 +1,4 @@
-The project you're working on involves writing a C program for an AVR microcontroller to display both English and custom characters (including Arabic letters and symbols) on an LCD screen. The program uses custom character generation to display non-standard characters that are not included in the LCD's built-in character set
+The project you're working on involves writing a C program for an AVR microcontroller to display both English and custom characters (including Arabic letters and symbols) on an LCD screen. The program uses custom character generation to display non-standard characters that are not included in the LCD's built-in character set.
 
 ### Key Concepts
 
